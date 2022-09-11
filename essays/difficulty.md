@@ -1,54 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: E1 UI Basics
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
-published: false
+date: 2022-09-11
 labels:
-  - Engineering
+
 ---
-
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
-
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
-
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+<p>After reading the instructions for BrowserHistory1, I felt prepared because of the assigned readings and the labs we did in class. I saw all the steps I had to do and I wasn't unfamiliar with anything. Despite this, my timer still went off before I could finish because I was scrounging around in my notes to find the correct tags to use. After retrying it without watching the screencast, I got my time to around 18 minutes. Most of my time was spent typing and moving things around, and after watching the screencast, I realized I could just highlight what I want to put inside the p tags and drag it inside instead of cutting the p tag and going all the way down to paste it. I also didn't have word wrap on, so I was scrolling back and forth. After fixing these things, it shaved some time off.</p>
+<p>My first attempt of BrowserHistory2 was around 13 minutes. I was googling and looking through my notes again which added time. I was inputting the fonts without realizing I had to insert a link to the html file first, I was trying to type "text-width" without realizing it was just "width", and I had to look up the float property. Very small, careless errors. I was able to get my time to around seven minutes after my first attempt before watching the screencast.</p>
+<p>I had the most difficulty with BrowserHistory3. I was familiar with the steps taken with the first two WODs, but I didn't know where to start with this one. I ended up googling things like columns but it was confusing so I didn't think it was right, so I ended up watching some of the screencast just to get some direction. I found out I had to use the div tag as well as the float property (instead of column lol), which made complete sense to me right as I saw it, so I tried doing the rest by myself. Moving on to the navbar, I was going to delete the ul and li tags in the html file but I didn't think it was right, so I was googling again. I ended up with the li selector and display: inline for my navbar. Then, I completed watching the full screencast and wow. My first attempt was over time, and my second attempt after watching the full screencast was around seven minutes.</p>
+<p>After completing these WODs, I realize how much effort I need to put into actually reading the readings. I read and take notes, but I don't have a file open to actually test out what these things actually do while I'm learning about it, which I will start doing. I also don't know if the way I do the WODs is helpful. During my first attempts, I would try my best to do it without any guidance from the screencast (except for BrowserHistory3). I was googling, looking through my notes and the readings, and did a second attempt with the knowledge that I got from google and the readings/notes, and my time would be close to Rx, but still Av. Then, I would watch the screencast and see what's up and learn from them and retry it again.</p>
