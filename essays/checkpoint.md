@@ -8,8 +8,8 @@ published: true
 labels:
 ---
 
-<p>Show what each page will look like. The pages do not have to be “functional” but the design should clear.</p> <p><a href "https://youtu.be/ubj1YPyGINY">Here is my screencast.</a></p>
-<img src = "https://github.com/klai9/klai9.github.io/blob/main/img/checkpoint.png">
+<p>Show what each page will look like. The pages do not have to be “functional” but the design should clear.</p> <p><a href = "https://youtu.be/ubj1YPyGINY">Here is my screencast.</a></p>
+<p><img src = "https://raw.githubusercontent.com/klai9/klai9.github.io/main/img/checkpoint.png"></p>
 <p>Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.</p>
 <p>The cart will be a separate page that the items get sent to. There are three “add to cart” buttons, one on each product page, so the products can be added in bulk instead of one-at-a-time. The quantities will be overwritten if more of the same items are added, they’ll be added together. There will be a separate form to adjust the quantities of the items in the cart.</p>
 <p>Explain specifically how you will use sessions to manage your shopping cart. In particular, what shopping cart data will be stored in the session, what data format will be used (NOT what data type, but the format like with the data format used for your registration data). Use code examples showing what data structures (such as arrays and their objects) you will use to manage the shopping cart data and how they will be used in a session.</p>
