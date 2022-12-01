@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Checkpoint Assignment #3
+title: Checkpoint Assignment no.3
 # All dates must be YYYY-MM-DD format!
 date: 2022-11-18
 published: true
