@@ -22,4 +22,3 @@ labels:
 <p>I'm working alone.</p>
 <p><b>How are you approaching Assignment 3 differently than Assignment 2?</b></p>
 <p>I have been planning what I’m going to do before I actually try to write the code. This assignment is more about putting things together but there are still things I’m not sure on how to accomplish that I need to google. I’m taking it slower and trying to make sure I’m doing things efficiently and not freaking myself out when I think things are too complicated. </p>
-
