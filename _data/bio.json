@@ -1,0 +1,30 @@
+{
+  "basics": {
+    "name": "Kaylin Lai",
+    "label": "Student",
+    "picture": "https://klai9.github.io/IMG_6703.jpeg",
+    "email": "klai9@hawaii.edu",
+    "phone": "",
+    "website": "https://klai9.github.io",
+    "summary": "I am studying for a B.B.A. in Accounting and Management Information Systems in Shidler College of Business at the University of Hawaii. I expect to graduate in Fall, 2023.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "klai9", "url": "http://github.com/klai9" }
+    ]
+  },
+  "interests": [
+    { "name": "Art" },
+    { "name": "Game development" },
+    { "name": "Graphics" }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Management Information Systems (expected Fall, 2023)",
+      "studyType": "B.B.A.",
+      "startDate": "2019-09-01",
+      "endDate": "Present",
+      "courses": ""
+    }
+  ] 
+}
